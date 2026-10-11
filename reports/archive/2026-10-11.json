@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-11",
+  "generated_at": "2026-10-11T01:58:52.841614+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1409246014",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 64.1,
+      "stars": 133,
+      "points": 0,
+      "name": "bherbruck/solvecraft",
+      "title": "bherbruck/solvecraft",
+      "description": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+      "original_text": "An open-source, clean-room reimplementation of Autodesk Fusion 360 in pure Rust. Parametric 3D CAD for desktop, browser, and AI agents via MCP.",
+      "display_line": "📈 [64.1分 ⭐133] bherbruck/solvecraft",
+      "url": "https://github.com/bherbruck/solvecraft"
+    },
+    {
+      "id": "repo:1413026868",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 62.3,
+      "stars": 2,
+      "points": 0,
+      "name": "ajeetkharel/dev-link-mcp",
+      "title": "ajeetkharel/dev-link-mcp",
+      "description": "Turn ChatGPT, Grok, Claude Code, Codex, Cursor or VS Code into a coding agent for one folder on your machine, sandboxed and logged on a live dashboard. MCP server.",
+      "original_text": "Turn ChatGPT, Grok, Claude Code, Codex, Cursor or VS Code into a coding agent for one folder on your machine, sandboxed and logged on a live dashboard. MCP server.",
+      "display_line": "🆕 [62.3分 ⭐2] ajeetkharel/dev-link-mcp",
+      "url": "https://github.com/ajeetkharel/dev-link-mcp"
+    },
+    {
+      "id": "repo:1411735173",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 52.0,
+      "stars": 68,
+      "points": 0,
+      "name": "Zafer-Liu/mcd-event-radar",
+      "title": "Zafer-Liu/mcd-event-radar",
+      "description": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
+      "original_text": "麦当劳 MCP Agent Skill：查「附近有什么麦麦活动」，生成卡通活动地图——门店位置取自官方经纬度，只展示已核实可预约场次 🍟",
+      "display_line": "📈 [52.0分 ⭐68] Zafer-Liu/mcd-event-radar",
+      "url": "https://github.com/Zafer-Liu/mcd-event-radar"
+    }
+  ]
+}

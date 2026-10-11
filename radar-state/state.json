@@ -161,7 +161,10 @@
     "repo:1409852792",
     "repo:1412519601",
     "repo:1410002762",
-    "repo:1403984902"
+    "repo:1403984902",
+    "repo:1409246014",
+    "repo:1413026868",
+    "repo:1411735173"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -325,7 +328,10 @@
     "https://github.com/tiliondev/waystone",
     "https://github.com/Alpha-Park/genpark-agentic-browser-dom-snapshot-and-console-monitor-skill",
     "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "https://github.com/jimoto-no-llm/rustdsh"
+    "https://github.com/jimoto-no-llm/rustdsh",
+    "https://github.com/bherbruck/solvecraft",
+    "https://github.com/ajeetkharel/dev-link-mcp",
+    "https://github.com/Zafer-Liu/mcd-event-radar"
   ],
-  "last_checked": "2026-10-10T02:25:35.481684+00:00"
+  "last_checked": "2026-10-11T01:58:52.842862+00:00"
 }
