@@ -164,7 +164,10 @@
     "repo:1403984902",
     "repo:1409246014",
     "repo:1413026868",
-    "repo:1411735173"
+    "repo:1411735173",
+    "repo:1411545320",
+    "repo:1410124849",
+    "repo:1411966661"
   ],
   "seen_urls": [
     "https://github.com/nduc99911/repo-context-mcp",
@@ -331,7 +334,10 @@
     "https://github.com/jimoto-no-llm/rustdsh",
     "https://github.com/bherbruck/solvecraft",
     "https://github.com/ajeetkharel/dev-link-mcp",
-    "https://github.com/Zafer-Liu/mcd-event-radar"
+    "https://github.com/Zafer-Liu/mcd-event-radar",
+    "https://github.com/liyupi/ai-promo-video-maker",
+    "https://github.com/wheresryan22/anatomy",
+    "https://github.com/yzg1226/mcd-party-officer"
   ],
-  "last_checked": "2026-10-11T01:58:52.842862+00:00"
+  "last_checked": "2026-10-12T02:29:22.896137+00:00"
 }
