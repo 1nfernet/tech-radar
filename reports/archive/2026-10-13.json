@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-13",
+  "generated_at": "2026-10-13T03:38:14.942876+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1414685342",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 61.5,
+      "stars": 801,
+      "points": 0,
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "original_text": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "display_line": "📈 [61.5分 ⭐801] onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "id": "repo:1416044972",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.4,
+      "stars": 2,
+      "points": 0,
+      "name": "Taiizor/browser-mcp",
+      "title": "Taiizor/browser-mcp",
+      "description": "Full-authority Chromium browser bridge: MCP server (stdio) + MV3 extension with 111 tools for tabs, DOM, network, console, CDP and more",
+      "original_text": "Full-authority Chromium browser bridge: MCP server (stdio) + MV3 extension with 111 tools for tabs, DOM, network, console, CDP and more",
+      "display_line": "🆕 [54.4分 ⭐2] Taiizor/browser-mcp",
+      "url": "https://github.com/Taiizor/browser-mcp"
+    },
+    {
+      "id": "repo:1411225475",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 54.0,
+      "stars": 104,
+      "points": 0,
+      "name": "hujjun/mcd-saver-strategist",
+      "title": "hujjun/mcd-saver-strategist",
+      "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "original_text": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "display_line": "📈 [54.0分 ⭐104] hujjun/mcd-saver-strategist",
+      "url": "https://github.com/hujjun/mcd-saver-strategist"
+    }
+  ]
+}
