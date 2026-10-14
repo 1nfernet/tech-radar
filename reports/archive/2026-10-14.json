@@ -1,0 +1,49 @@
+{
+  "report_date": "2026-10-14",
+  "generated_at": "2026-10-14T01:58:58.803700+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "id": "repo:1415214046",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 66.1,
+      "stars": 868,
+      "points": 0,
+      "name": "zhuyansen/new-term-radar",
+      "title": "zhuyansen/new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "original_text": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "display_line": "📈 [66.1分 ⭐868] zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar"
+    },
+    {
+      "id": "repo:1417330633",
+      "type": "new",
+      "emoji": "🆕",
+      "score": 54.3,
+      "stars": 2,
+      "points": 0,
+      "name": "qreate-gg/qreate-mcp",
+      "title": "qreate-gg/qreate-mcp",
+      "description": "Build and run Discord communities from Claude and ChatGPT. Qreate MCP connects server context, setup plans, automations and announcements through reviewed actions.",
+      "original_text": "Build and run Discord communities from Claude and ChatGPT. Qreate MCP connects server context, setup plans, automations and announcements through reviewed actions.",
+      "display_line": "🆕 [54.3分 ⭐2] qreate-gg/qreate-mcp",
+      "url": "https://github.com/qreate-gg/qreate-mcp"
+    },
+    {
+      "id": "repo:1412022658",
+      "type": "trend",
+      "emoji": "📈",
+      "score": 52.3,
+      "stars": 426,
+      "points": 0,
+      "name": "morluto/awesome-reverse-engineering",
+      "title": "morluto/awesome-reverse-engineering",
+      "description": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "original_text": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+      "display_line": "📈 [52.3分 ⭐426] morluto/awesome-reverse-engineering",
+      "url": "https://github.com/morluto/awesome-reverse-engineering"
+    }
+  ]
+}
